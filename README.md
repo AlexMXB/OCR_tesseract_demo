@@ -1,7 +1,8 @@
 # OCR_tesseract_demo
 This is a Demo for knowledge share and test :
+Dependencies：Tesseract
 A typical scene
-  1.get verification code picture form website(just for test); 
+  1.get captcha picture form website(just for test); 
   2.parse the picture and get the result;
   3.submit the result to website and get response.
 Further options:
